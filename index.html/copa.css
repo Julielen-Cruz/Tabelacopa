@@ -1,0 +1,341 @@
+
+
+
+body {
+	background-color: rgb(86, 177, 121);
+    margin-top: 30px;
+    margin-left: 40px
+ 
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 130px;
+    margin-bottom: 50px
+}
+
+#titulo {
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 290px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    color: #999
+}
+
+#hr {
+    height: 1px;
+    width: 750px;
+    margin-right: 300px;
+    background-color: black
+}
+
+#hr1 {
+    height: 2px;
+    width: 960px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    background-color: black
+    
+}
+
+#titulo1 {
+    text-align:center;
+    margin-top: 0px;
+    margin-right: 290px;
+    font-size: 30px;
+    color:darkred;
+    text-shadow: 0.1em 0.1em 0.1em red
+}
+
+#fundo {
+    position: fixed;
+	filter: opacity(alpha=60);
+    opacity: 0.20;
+    height: 100%;
+    margin-left: 120px
+}
+
+.bandeira {
+	height: 55px;
+	width: 70px;
+    margin-bottom: 3px;
+    margin-left: 80px
+}
+
+#letra {
+    float: right;
+    margin-right: 250px;
+    position:inherit;    
+}
+
+.letraA {
+    margin-top: 100px;
+}
+
+.letraB {
+    margin-top: 500px;
+}
+
+.letraC {
+    margin-top: 500px;
+     margin-left: 5px
+}
+
+.letraD {
+    margin-top: 500px;
+    margin-left: 5px
+}
+
+
+.letraE {
+    margin-top: 500px;
+    margin-left: 5px
+}
+
+
+.letraF {
+    margin-top: 500px;
+    margin-left: 5px
+}
+
+
+.letraG {
+    margin-top: 500px;
+    margin-left: 5px
+}
+
+
+.letraH {
+    margin-top: 500px;
+    margin-left: 5px
+}
+
+
+#grupoA {
+  width: 50px;
+  margin-left: 150px;   
+  margin-top: 10px    
+}
+
+#grupoB {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoC {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoD {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoE {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoF {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoG {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+#grupoH {
+  width: 50px;
+  margin-top: 10px;    
+  margin-left: 150px
+}
+
+.jogo {
+	font-family: "verdana";
+	font-size: 20px;
+    text-align: center;
+    margin-left: 530px;
+    width: 650px        
+}
+
+tr {
+  background-color: #d7eee7;
+  box-shadow: 0px 0px 20px #999 inset  
+}
+
+td {
+ height: 50px;
+ width: 60px   
+}
+
+.placar {
+	width: 10px;
+	height: 10px;
+    border-radius: 10px;
+    border-color: black
+}
+
+#tabelaA {
+    margin-top: -330px;
+    margin-right: 100px
+}
+
+#tabelaB {
+    margin-top: -330px;
+    margin-left: 200px
+
+}
+
+#tabelaC {
+    margin-top: -330px
+}
+
+#tabelaD {
+    margin-top: -330px
+}
+
+#tabelaE {
+    margin-top: -330px; 
+}
+
+#tabelaF {
+    margin-top: -330px
+}
+
+#tabelaG {
+    margin-top: -330px
+}
+
+#tabelaH {
+    margin-top: -120px;    
+}
+
+#listaa, #listab, #listac, #listad, #listae, #listaf, #listag, #listah{
+	width: 200px;
+	float: left;
+	text-align: left;
+	font-size: 25px;
+	padding: 30px;
+
+}
+
+
+#russia-id{
+	list-style-image: url("../flags/russia.png");
+}
+#arabia-id{
+	list-style-image: url("../flags/arabia.png");
+}
+#egito-id{
+	list-style-image: url("../flags/egito.png")
+}
+#uruguai-id{
+	list-style-image: url("../flags/uruguai.png")
+}
+#portugal-id{
+	list-style-image: url("../flags/portugal.png")
+}
+#espanha-id{
+	list-style-image: url("../flags/espanha.png")
+}
+#marrocos-id{
+	list-style-image: url("../flags/marrocos.png")
+}
+#ira-id{
+	list-style-image: url("../flags/ira.png")
+}
+#franca-id{
+	list-style-image: url("../flags/franca.png")
+}
+#australia-id{
+	list-style-image: url("../flags/australia.png")
+}
+#peru-id{
+	list-style-image: url("../flags/peru.png")
+}
+#dinamarca-id{
+	list-style-image: url("../flags/dinamarca.png") 
+}
+#argentina-id{
+	list-style-image: url("../flags/argentina.png")
+}
+#croacia-id{
+	list-style-image: url("../flags/croacia.png")
+}
+#islandia-id{
+	list-style-image: url("../flags/islandia.png")
+}
+#nigeria-id{
+	list-style-image: url("../flags/nigeria.png")
+}
+#brasil-id{
+	list-style-image: url("../flags/brasil.png")
+}
+#costarica-id{
+	list-style-image: url("../flags/costa-rica.png")
+}
+#servia-id{
+	list-style-image: url("../flags/servia.png")
+}
+#suica-id{
+	list-style-image: url("../flags/suica.png")
+}
+#alemanha-id{
+	list-style-image: url("../flags/alemanha.png")
+}
+#mexico-id{
+	list-style-image: url("../flags/mexico.png")
+}
+#suecia-id{
+	list-style-image: url("../flags/suecia.png")
+}
+#coreiadosul-id{
+	list-style-image: url("../flags/coreiadosul.png")
+}
+#belgica-id{
+	list-style-image: url("../flags/belgica.png")
+}
+#panama-id{
+	list-style-image: url("../flags/panama.png")
+}
+#tunisia-id{
+	list-style-image: url("../flags/tunisia.png")
+}
+#inglaterra-id{
+	list-style-image: url("../flags/inglaterra.png")
+}
+#japao-id{
+	list-style-image: url("../flags/japao.png")
+}
+#senegal-id{
+	list-style-image: url("../flags/senegal.png")
+}
+#colombia-id{
+	list-style-image: url("../flags/colombia.png")
+}
+#polonia-id{
+	list-style-image: url("../flags/polonia.png")
+}
+
+
+
+
+
+
+
+
+
+
+
